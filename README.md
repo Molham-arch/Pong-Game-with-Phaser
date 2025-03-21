@@ -29,4 +29,3 @@ A classic Pong game built with **Phaser 3**! Control the paddles, score points, 
 
 ---
 
-## 📂 Project Structure
